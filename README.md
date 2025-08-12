@@ -15,7 +15,7 @@ This tool is an ML-based audio analysis system designed for speaker clustering a
 
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/arnavc16/Audio_Tool.git
+   git clone https://github.com/samKhatod/Audio-Analysis-Tool.git
 
 2. Navigate to the project directory:
    cd Audio_Project
